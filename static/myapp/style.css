@@ -1,0 +1,19 @@
+.imglogo{
+    height: 3rem;
+}
+
+.bg-custom-nav{
+    background-color: #16425B;
+}
+
+.bg-custom-body{
+    background-color: #D9DCD6;
+}
+
+.bg-custom-comments{
+    background-color: #c4c4c4;
+}
+
+.text-custom-title {
+    color: #2f6690;
+}
